@@ -1,1 +1,1 @@
-# interactive-ai-tutorial
+# iccc-ai-art
