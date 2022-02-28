@@ -4,14 +4,13 @@ We are excited to present a tutorial on "Methods of interacting with computation
 
 ## Description
 
-In this tutorial, participants will learn about current technologies allowing AI to play improvisational theatre and have the opportunity to experience this new form of co-creativity for themselves. 
+Participants will explore artificial intelligence (AI) technologies for live artistic performance by experiencing this new form of co-creativity for themselves. 
 
-Improbotics is a collective of improvisers and computational creativity researchers that aim to introduce creative AI into many different forms of improvisational theatre/comedy, and thus provide a playground for extreme forms of real-time computational co-creativity.
+Improbotics is a collective of improvisers and computational creativity researchers who aim to combine creative AI with theatre and comedy and thereby provide a playground for real-time computational co-creativity.
 
+Participants will learn about all kinds of co-creative technologies (e.g. language and translation models, image composition and generation models) that can be used today, play a couple of basic and safe improvisational theatre games, and experience what it is like to improvise alongside an AI for themselves.
 
-In this tutorial, the participants will learn about all kinds of different co-creativity technologies (e.g. mostly language models, translation models, image composition and image generation models) that can already be applied in improvisational theatre, play a couple of basic and safe improvisational theatre games, and then experience what it’s like to improvise alongside an AI for themselves.
-
-This tutorial centres around the growing use of interactive computation in artistic performance. We will present how to have fun with language models live before an audience, how improvements in image generation models will fuel a new kind of interactive projection, how audio generated from these systems can score live performance, and more generally, how the machine has become a performer to play alongside.
+This tutorial centres around the growing use of interactive computation in artistic performance. We will present how to have fun with language models live before an audience, how improvements in image generation models fuel a new kind of interaction, and more generally, how the machine has become a performer to play alongside.
 
 ## Organising Committee
 * [Kory Mathewson](https://korymathewson.com/) (DeepMind, Canada)
