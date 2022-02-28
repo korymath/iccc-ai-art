@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Methods of interacting with computational systems for live artistic performance
 
-You can use the [editor on GitHub](https://github.com/korymath/iccc-ai-art/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A tutorial at the 13th International Conference on Computational Creativity [ICCC 2022](https://computationalcreativity.net/iccc22/). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
 
-### Markdown
+In this tutorial, participants will learn about current technologies allowing AI to play improvisational theatre and have the opportunity to experience this new form of co-creativity for themselves. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Improbotics is a collective of improvisers and computational creativity researchers that aim to introduce creative AI into many different forms of improvisational theatre/comedy, and thus provide a playground for extreme forms of real-time computational co-creativity.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+In this tutorial, the participants will learn about all kinds of different co-creativity technologies (e.g. mostly language models, translation models, image composition and image generation models) that can already be applied in improvisational theatre, play a couple of basic and safe improvisational theatre games, and then experience what it’s like to improvise alongside an AI for themselves.
 
-- Bulleted
-- List
+This tutorial centres around the growing use of interactive computation in artistic performance. We will present how to have fun with language models live before an audience, how improvements in image generation models will fuel a new kind of interactive projection, how audio generated from these systems can score live performance, and more generally, how the machine has become a performer to play alongside.
 
-1. Numbered
-2. List
+## Organising Committee
+* [Kory Mathewson](https://korymathewson.com/) (DeepMind, Canada)
+* Thomas Winters (KU Leuven, Belgium)
+* Piotr Mirowski (DeepMind, UK)
+* Boyd Branch (Coventry University, UK)
 
-**Bold** and _Italic_ and `Code` text
+## Schedule
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/korymath/iccc-ai-art/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Full schedule to come.
