@@ -6,7 +6,7 @@ We are excited to present a tutorial on "Methods of interacting with computation
 
 Participants will explore artificial intelligence (AI) technologies for live artistic performance by experiencing this new form of co-creativity for themselves. 
 
-Improbotics is a collective of improvisers and computational creativity researchers who aim to combine creative AI with theatre and comedy and thereby provide a playground for real-time computational co-creativity.
+The workshop organisers will share their learnings from staging AI in theatre performance, combining creative AI with theatre and comedy and thereby provide a playground for real-time computational co-creativity.
 
 Participants will learn about all kinds of co-creative technologies (e.g. language and translation models, image composition and generation models) that can be used today, play a couple of basic and safe improvisational theatre games, and experience what it is like to improvise alongside an AI for themselves.
 
