@@ -1,6 +1,6 @@
 ## Introduction
 
-We are excited to present a tutorial on "Methods of interacting with computational systems for live artistic performance" at the 13th International Conference on Computational Creativity [ICCC 2022](https://computationalcreativity.net/iccc22/). 
+We are excited to present a tutorial on "**Methods of interacting with computational systems for live artistic performance**" at the 13th International Conference on Computational Creativity [ICCC 2022](https://computationalcreativity.net/iccc22/). 
 
 ## Description
 
