@@ -14,9 +14,9 @@ This tutorial centres around the growing use of interactive computation in artis
 
 ## Organising Committee
 * [Kory Mathewson](https://korymathewson.com/) (DeepMind, Canada)
-* Thomas Winters (KU Leuven, Belgium)
-* Piotr Mirowski (DeepMind, UK)
-* Boyd Branch (Coventry University, UK)
+* [Thomas Winters](https://thomaswinters.be/) (KU Leuven, Belgium)
+* [Piotr Mirowski](https://piotrmirowski.com/) (DeepMind, UK)
+* [Boyd Branch](https://www.boydbranch.com/) (Coventry University, UK)
 
 ## Schedule
 
